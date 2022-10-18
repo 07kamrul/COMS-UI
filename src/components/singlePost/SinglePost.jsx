@@ -1,4 +1,5 @@
 import "./singlePost.css"
+import React from "react";
 
 export default function SinglePost() {
   return (
@@ -34,7 +35,6 @@ export default function SinglePost() {
             Give a shoutout to Johann Siemens on social or copy the text below to attribute.
             Give a shoutout to Johann Siemens on social or copy the text below to attribute.
         </p>
-
       </div>
     </div>
   )
